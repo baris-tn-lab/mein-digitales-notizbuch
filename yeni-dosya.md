@@ -1,1 +1,0 @@
-"# yeni i‡erik" 
