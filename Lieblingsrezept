@@ -1,1 +1,12 @@
-
+echo "Mein Lieblingsrezept: Spaghetti Bolognese
+Zutaten:
+250g Spaghetti
+200g Hackfleisch
+1 Dose Tomaten
+1 Zwiebel
+Salz, Pfeffer, Basilikum
+Zubereitung:
+Spaghetti kochen.
+Hackfleisch mit Zwiebel anbraten.
+Tomaten dazugeben und würzen.
+Alles zusammen servieren." > lieblingsrezept.txt
